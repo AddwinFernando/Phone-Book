@@ -1,4 +1,17 @@
-.content{
-    border: 1px solid black;
-    background-color: black;
+body{
+    padding: 0%;
+    margin: 0%;
+}
+.input{
+    height: 100vh;
+    width: 100vw;
+    background-color: whitesmoke;
+}
+.table-div{
+    height: 100vh;
+    width: 100vw;
+    background-color: whitesmoke;
+}
+.icard{
+    border: 2px solid black;
 }
